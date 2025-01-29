@@ -1,0 +1,22 @@
+
+{
+    "videos": [
+        {
+            "localName": "video1",
+            "link": "https://radio.thmanyah.com/share/episode/de2d4b83-3e4c-5992-9e4d-7735d107dd1c",
+            "additionalName": "لماذا تفشل المشاريع الناشئة"
+        },
+        {
+            "localName": "video2",
+            "link": "https://radio.thmanyah.com/share/episode/46266259-d795-57c1-81d0-6fff38a80189",
+            "additionalName": "قصة مكتبة جرير وعائلة العقيل التجارية"
+        },
+        {
+            "localName": "video3",
+            "link": "https://radio.thmanyah.com/share/episode/1b1ac1a2-da6f-5ecd-b0a7-e7bed3d9e72d",
+            "additionalName": "النجاة من الموت: غرق عبّارة السلام"
+        }
+    ]
+}
+
+
